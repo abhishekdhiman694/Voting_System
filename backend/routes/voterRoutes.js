@@ -16,12 +16,3 @@ module.exports = router;
 
 
 
-
-// const express = require('express');
-// const router = express.Router();
-// const { getVoterPageData, voteForCandidate } = require('../controllers/voterController');
-
-// router.get('/page', getVoterPageData);
-// router.post('/vote', voteForCandidate);
-
-// module.exports = router;
